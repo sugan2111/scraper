@@ -1,4 +1,4 @@
-# webscrapper
+# webscraper
 
 ## Requirements
 - PHP 5.4+
