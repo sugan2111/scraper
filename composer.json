@@ -1,0 +1,16 @@
+{
+    "name": "suganya/scraper",
+    "description": "Web scraper for Sainsburys",
+    "authors": [
+        {
+            "name": "Suganya",
+            "email": "sugan2111@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "tburry/pquery": "^1.1",
+        "phpunit/phpunit": "^5.2"
+    }
+}
